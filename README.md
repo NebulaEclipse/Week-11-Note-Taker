@@ -18,4 +18,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 ## Deployed Link
-https://nameless-dusk-53558-c13ec2738aae.herokuapp.com/notes 
+https://nameless-dusk-53558-c13ec2738aae.herokuapp.com/
